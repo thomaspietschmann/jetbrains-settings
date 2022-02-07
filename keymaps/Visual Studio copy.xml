@@ -1,0 +1,29 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+    <keyboard-shortcut first-keystroke="ctrl alt divide" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="c" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="ctrl number_sign" />
+  </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="EditorScrollDown" />
+  <action id="EditorScrollUp" />
+  <action id="MethodOverloadSwitchDown" />
+  <action id="MethodOverloadSwitchUp" />
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+  </action>
+  <action id="SearchEverywhere.NavigateToNextGroup">
+    <keyboard-shortcut first-keystroke="page_down" />
+  </action>
+  <action id="SearchEverywhere.NavigateToPrevGroup">
+    <keyboard-shortcut first-keystroke="page_up" />
+  </action>
+</keymap>
