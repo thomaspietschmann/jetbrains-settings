@@ -1,6 +1,7 @@
 <application>
   <component name="OverrideFileTypeManager">
     <file url="file://$USER_HOME$/sprengnetter/prosaweb/app/views/examples/_deckblatt.docx.caracal" value="Ruby" />
+    <file url="file://$USER_HOME$/sprengnetter/prosaweb/app/views/examples/_gebaeude.docx.caracal" value="Ruby" />
     <file url="file://$USER_HOME$/sprengnetter/prosaweb/app/views/examples/_grundstuecke.docx.caracal" value="Ruby" />
     <file url="file://$USER_HOME$/sprengnetter/prosaweb/app/views/examples/_ortsinfos.docx.caracal" value="Ruby" />
   </component>
