@@ -4,7 +4,6 @@
   </editorconfig>
   <codeStyleSettings language="ruby">
     <indentOptions>
-      <option name="USE_TAB_CHARACTER" value="true" />
       <option name="SMART_TABS" value="true" />
     </indentOptions>
   </codeStyleSettings>
